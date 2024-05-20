@@ -7,7 +7,7 @@ import androidx.lifecycle.AndroidViewModel
 class MemoViewModel(private val application: Application): AndroidViewModel(application) {
     var memoList= mutableStateListOf<Memo>()
     init{
-
+// test
     }
 
 }
